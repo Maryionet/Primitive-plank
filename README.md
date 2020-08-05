@@ -10,3 +10,9 @@ here's the installation.
 3. place the Primitive_planks to your mod folder
 4. activate the mod in your world it's on rebalance
 5. done Enjoy!
+
+Axes that have regained the ability to cut logs to planks.
+1. copper ax i know this is not a primitive axe but why not.
+2. hand axe
+3. makeshift axe
+4. primitive axe
